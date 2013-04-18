@@ -1,7 +1,7 @@
 Source: python-requests-oauthlib
 Priority: optional
 Maintainer: Adam Stokes <adam.stokes@ubuntu.com>
-Build-Depends: debhelper (>= 9), python (>=2.7), python-nose, python-requests (>= 1.1.0)
+Build-Depends: debhelper (>= 9), python (>=2.7), python-nose, python-requests
 Standards-Version: 3.9.4
 Section: python
 Homepage: https://github.com/requests/requests-oauthlib
